@@ -4,6 +4,4 @@
 
 ---
 
-A calculator that can evaluate complex equations.
-To evaluate the equations `infix` notation is used.
-This notation is how people evaluate equations by hand, using `PEMDAS`.
+A calculator that evaluates complex mathmatical equations using [`infix` notation](https://en.wikipedia.org/wiki/Infix_notation#:~:text=Infix%20notation%20is%20the%20notation,plus%20sign%20in%202%20%2B%202.).
